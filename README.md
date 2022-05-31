@@ -1,1 +1,1 @@
-https://starymisiada.pl/ankieta/
+https://starymisiada.pl/ankieta/ankieta.html
