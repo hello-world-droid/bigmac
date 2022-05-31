@@ -1,2 +1,2 @@
 # bigmac
-https://hello-world-droid.github.io/bigmac/siema.html
+https://hello-world-droid.github.io/bigmac/siema2.html
